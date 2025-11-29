@@ -1,0 +1,36 @@
+Category,Metric,Value,Details
+Overall Statistics,Total Customers,3000,3000 customers analyzed
+Overall Statistics,Churned Customers,912,30.40% churn rate
+Overall Statistics,Retained Customers,2088,69.60% retention rate
+Contract Type Analysis,One Year Churn Rate,18.32,129 out of 704 customers churned
+Contract Type Analysis,Month-to-Month Churn Rate,43.15,725 out of 1680 customers churned
+Contract Type Analysis,Two Year Churn Rate,9.42,58 out of 616 customers churned
+Tenure Analysis,0-6 months Churn Rate,42.4,321 out of 757 customers churned
+Tenure Analysis,25-36 months Churn Rate,28.16,116 out of 412 customers churned
+Tenure Analysis,13-24 months Churn Rate,31.21,211 out of 676 customers churned
+Tenure Analysis,36+ months Churn Rate,19.1,127 out of 665 customers churned
+Tenure Analysis,7-12 months Churn Rate,27.96,137 out of 490 customers churned
+Financial Metrics,Avg Monthly Charges (Churned),87.32,Average monthly charges for churned customers
+Financial Metrics,Avg Monthly Charges (Retained),80.95,Average monthly charges for retained customers
+Financial Metrics,Avg Total Revenue (Churned),1600.4,Average total revenue from churned customers
+Financial Metrics,Avg Total Revenue (Retained),2022.31,Average total revenue from retained customers
+OnlineSecurity Analysis,Yes - Churn Rate,23.1,192 out of 831 customers churned
+OnlineSecurity Analysis,No - Churn Rate,36.35,571 out of 1571 customers churned
+TechSupport Analysis,Yes - Churn Rate,27.69,201 out of 726 customers churned
+TechSupport Analysis,No - Churn Rate,33.53,562 out of 1676 customers churned
+Payment Method Analysis,Electronic Check Churn Rate,38.38,416 out of 1084 customers churned
+Payment Method Analysis,Bank Transfer Churn Rate,27.02,184 out of 681 customers churned
+Payment Method Analysis,Credit Card Churn Rate,25.37,189 out of 745 customers churned
+Payment Method Analysis,Mailed Check Churn Rate,25.1,123 out of 490 customers churned
+Geographic Analysis,Delhi Churn Rate,30.45,155 out of 509 customers churned
+Geographic Analysis,Bangalore Churn Rate,27.5,132 out of 480 customers churned
+Geographic Analysis,Kolkata Churn Rate,37.36,102 out of 273 customers churned
+Geographic Analysis,Mumbai Churn Rate,26.82,144 out of 537 customers churned
+Geographic Analysis,Ahmedabad Churn Rate,27.68,62 out of 224 customers churned
+Geographic Analysis,Pune Churn Rate,32.09,86 out of 268 customers churned
+Geographic Analysis,Chennai Churn Rate,33.12,106 out of 320 customers churned
+Geographic Analysis,Hyderabad Churn Rate,32.13,125 out of 389 customers churned
+Customer Service Analysis,0-1 calls Churn Rate,29.06,360 out of 1239 customers churned
+Customer Service Analysis,2-3 calls Churn Rate,29.47,392 out of 1330 customers churned
+Customer Service Analysis,4-5 calls Churn Rate,35.75,138 out of 386 customers churned
+Customer Service Analysis,6+ calls Churn Rate,48.89,22 out of 45 customers churned
